@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "196057987486",
+    "project_id": "gram-eats",
+    "storage_bucket": "gram-eats.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196057987486:android:41729dd760a30ad55b3e8f",
+        "android_client_info": {
+          "package_name": "com.gideonneutron.grameats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGqj3bHhgi0a48uk-B3GoTMcjDeWHH18Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196057987486:android:549fb6903d9c9b355b3e8f",
+        "android_client_info": {
+          "package_name": "com.gideonneutron.sellersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGqj3bHhgi0a48uk-B3GoTMcjDeWHH18Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
